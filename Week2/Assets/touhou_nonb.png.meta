@@ -1,0 +1,3568 @@
+fileFormatVersion: 2
+guid: b0e56f012ffd5c84fac478bd72f4bef2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -292971152529163605
+    second: touhou_nonb_0
+  - first:
+      213: 8479096387606204537
+    second: touhou_nonb_1
+  - first:
+      213: -6039669804658755072
+    second: touhou_nonb_2
+  - first:
+      213: -8789435453262120521
+    second: touhou_nonb_3
+  - first:
+      213: 6818171633211505754
+    second: touhou_nonb_4
+  - first:
+      213: 66727216178953431
+    second: touhou_nonb_5
+  - first:
+      213: 4972953838741763576
+    second: touhou_nonb_6
+  - first:
+      213: 1580066801422864301
+    second: touhou_nonb_7
+  - first:
+      213: 1469129496924850426
+    second: touhou_nonb_8
+  - first:
+      213: 3951058170196086453
+    second: touhou_nonb_9
+  - first:
+      213: 3144255355530243643
+    second: touhou_nonb_10
+  - first:
+      213: -2161346434184302313
+    second: touhou_nonb_11
+  - first:
+      213: -878824726499055459
+    second: touhou_nonb_12
+  - first:
+      213: 4751837414044809324
+    second: touhou_nonb_13
+  - first:
+      213: -3646570917927266315
+    second: touhou_nonb_14
+  - first:
+      213: 3696727797823025278
+    second: touhou_nonb_15
+  - first:
+      213: -889794920607504895
+    second: touhou_nonb_16
+  - first:
+      213: 6294364885591562573
+    second: touhou_nonb_17
+  - first:
+      213: 7484794650374010924
+    second: touhou_nonb_18
+  - first:
+      213: -2555378659293966608
+    second: touhou_nonb_19
+  - first:
+      213: -7290656772068932978
+    second: touhou_nonb_20
+  - first:
+      213: 8434929022599385307
+    second: touhou_nonb_21
+  - first:
+      213: -8979765844567758490
+    second: touhou_nonb_22
+  - first:
+      213: 525887106768178275
+    second: touhou_nonb_23
+  - first:
+      213: 4059108508647690548
+    second: touhou_nonb_24
+  - first:
+      213: -3267680125539027671
+    second: touhou_nonb_25
+  - first:
+      213: 6633364510960802053
+    second: touhou_nonb_26
+  - first:
+      213: -1471395905396325459
+    second: touhou_nonb_27
+  - first:
+      213: 211616108118775485
+    second: touhou_nonb_28
+  - first:
+      213: 2396917718336502205
+    second: touhou_nonb_29
+  - first:
+      213: 2348504378001707239
+    second: touhou_nonb_30
+  - first:
+      213: -4189998760693318963
+    second: touhou_nonb_31
+  - first:
+      213: 7473608552862803513
+    second: touhou_nonb_32
+  - first:
+      213: -5497874264150088206
+    second: touhou_nonb_33
+  - first:
+      213: -3406149620520982485
+    second: touhou_nonb_34
+  - first:
+      213: 4412119452187077664
+    second: touhou_nonb_35
+  - first:
+      213: -8883638476726735882
+    second: touhou_nonb_36
+  - first:
+      213: -414921686970944091
+    second: touhou_nonb_37
+  - first:
+      213: -6908689708650499399
+    second: touhou_nonb_38
+  - first:
+      213: 8857734318825944122
+    second: touhou_nonb_39
+  - first:
+      213: 256469904429004224
+    second: touhou_nonb_40
+  - first:
+      213: 226336545939877815
+    second: touhou_nonb_41
+  - first:
+      213: 5945440727443462429
+    second: touhou_nonb_42
+  - first:
+      213: -8062052095611786126
+    second: touhou_nonb_43
+  - first:
+      213: -7114763766874975897
+    second: touhou_nonb_44
+  - first:
+      213: 3713733346149077803
+    second: touhou_nonb_45
+  - first:
+      213: 2974233898473865135
+    second: touhou_nonb_46
+  - first:
+      213: 3000612119499079805
+    second: touhou_nonb_47
+  - first:
+      213: 8172061941261364895
+    second: touhou_nonb_48
+  - first:
+      213: 8795352238151565146
+    second: touhou_nonb_49
+  - first:
+      213: 8932972375795519777
+    second: touhou_nonb_50
+  - first:
+      213: 6527844947189480603
+    second: touhou_nonb_51
+  - first:
+      213: -4710699169499548333
+    second: touhou_nonb_52
+  - first:
+      213: 8180253509092474490
+    second: touhou_nonb_53
+  - first:
+      213: 5434561444457288837
+    second: touhou_nonb_54
+  - first:
+      213: 1439689598322527760
+    second: touhou_nonb_55
+  - first:
+      213: 3294763588668733629
+    second: touhou_nonb_56
+  - first:
+      213: 7641993557099613025
+    second: touhou_nonb_57
+  - first:
+      213: 5662768824326415726
+    second: touhou_nonb_58
+  - first:
+      213: -8334943469200620197
+    second: touhou_nonb_59
+  - first:
+      213: -4652685509068637140
+    second: touhou_nonb_60
+  - first:
+      213: 5047825351335345022
+    second: touhou_nonb_61
+  - first:
+      213: -9100811156478012712
+    second: touhou_nonb_62
+  - first:
+      213: 453047603520679374
+    second: touhou_nonb_63
+  - first:
+      213: 9093154278219282325
+    second: touhou_nonb_64
+  - first:
+      213: -8793253260358814191
+    second: touhou_nonb_65
+  - first:
+      213: -982699523110936952
+    second: touhou_nonb_66
+  - first:
+      213: -7661248354772908287
+    second: touhou_nonb_67
+  - first:
+      213: 4620125053879263526
+    second: touhou_nonb_68
+  - first:
+      213: 6749529549241360676
+    second: touhou_nonb_69
+  - first:
+      213: -6108178681718617872
+    second: touhou_nonb_70
+  - first:
+      213: -528835386657374812
+    second: touhou_nonb_71
+  - first:
+      213: -2011405869079508134
+    second: touhou_nonb_72
+  - first:
+      213: 2680417763228892515
+    second: touhou_nonb_73
+  - first:
+      213: -3962720084498080181
+    second: touhou_nonb_74
+  - first:
+      213: 1736872380474418155
+    second: touhou_nonb_75
+  - first:
+      213: 2723580494498436527
+    second: touhou_nonb_76
+  - first:
+      213: 2682433952795098873
+    second: touhou_nonb_77
+  - first:
+      213: -2836615834400545998
+    second: touhou_nonb_78
+  - first:
+      213: 4727607331249962076
+    second: touhou_nonb_79
+  - first:
+      213: 7859526638485116407
+    second: touhou_nonb_80
+  - first:
+      213: -253960989927551729
+    second: touhou_nonb_81
+  - first:
+      213: 1100128606288576512
+    second: touhou_nonb_82
+  - first:
+      213: 835855596090416298
+    second: touhou_nonb_83
+  - first:
+      213: -1392810822784047033
+    second: touhou_nonb_84
+  - first:
+      213: 3948014438242632071
+    second: touhou_nonb_85
+  - first:
+      213: 1347087961182878960
+    second: touhou_nonb_86
+  - first:
+      213: 3783698689906531066
+    second: touhou_nonb_87
+  - first:
+      213: 4475416522402218376
+    second: touhou_nonb_88
+  - first:
+      213: 6827076242470228714
+    second: touhou_nonb_89
+  - first:
+      213: 4316458719656073037
+    second: touhou_nonb_90
+  - first:
+      213: 242344511470442967
+    second: touhou_nonb_91
+  - first:
+      213: -2203144362270906182
+    second: touhou_nonb_92
+  - first:
+      213: 4862025056638166328
+    second: touhou_nonb_93
+  - first:
+      213: -9130133728253456043
+    second: touhou_nonb_94
+  - first:
+      213: 3228554572900008483
+    second: touhou_nonb_95
+  - first:
+      213: -5481828839054564307
+    second: touhou_nonb_96
+  - first:
+      213: 127527616052172272
+    second: touhou_nonb_97
+  - first:
+      213: 3984636053136601468
+    second: touhou_nonb_98
+  - first:
+      213: 2615885130717635373
+    second: touhou_nonb_99
+  - first:
+      213: 7448352706851273615
+    second: touhou_nonb_100
+  - first:
+      213: -49972355316682988
+    second: touhou_nonb_101
+  - first:
+      213: 6764154275054318218
+    second: touhou_nonb_102
+  - first:
+      213: -5377300016574417452
+    second: touhou_nonb_103
+  - first:
+      213: -3960754557935896992
+    second: touhou_nonb_104
+  - first:
+      213: 3018492370164336685
+    second: touhou_nonb_105
+  - first:
+      213: 7935103284716405413
+    second: touhou_nonb_106
+  - first:
+      213: 8043284607473225834
+    second: touhou_nonb_107
+  - first:
+      213: 3899190170085308774
+    second: touhou_nonb_108
+  - first:
+      213: 1409955575422563307
+    second: touhou_nonb_109
+  - first:
+      213: 6738379439353901684
+    second: touhou_nonb_110
+  - first:
+      213: 5772019942795553734
+    second: touhou_nonb_111
+  - first:
+      213: 5984392056947537257
+    second: touhou_nonb_112
+  - first:
+      213: -7236379946054386680
+    second: touhou_nonb_113
+  - first:
+      213: 3977507805336611094
+    second: touhou_nonb_114
+  - first:
+      213: 499562987251937241
+    second: touhou_nonb_115
+  - first:
+      213: 7532636817799119370
+    second: touhou_nonb_116
+  - first:
+      213: -7032278708433763550
+    second: touhou_nonb_117
+  - first:
+      213: 1717572492204054778
+    second: touhou_nonb_118
+  - first:
+      213: -7842118725238833710
+    second: touhou_nonb_119
+  - first:
+      213: 2657988330405095633
+    second: touhou_nonb_120
+  - first:
+      213: 2709248825973212957
+    second: touhou_nonb_121
+  - first:
+      213: -8141862945391630675
+    second: touhou_nonb_122
+  - first:
+      213: 4023203177075779774
+    second: touhou_nonb_123
+  - first:
+      213: 7049456622429776018
+    second: touhou_nonb_124
+  - first:
+      213: -2134942243894559896
+    second: touhou_nonb_125
+  - first:
+      213: -7595545889616778201
+    second: touhou_nonb_126
+  - first:
+      213: 7738671986284390030
+    second: touhou_nonb_127
+  - first:
+      213: -1016473687598779489
+    second: touhou_nonb_128
+  - first:
+      213: -5753089778770097865
+    second: touhou_nonb_129
+  - first:
+      213: 8357519748868991884
+    second: touhou_nonb_130
+  - first:
+      213: 4474250124116563420
+    second: touhou_nonb_131
+  - first:
+      213: 8176263106159927177
+    second: touhou_nonb_132
+  - first:
+      213: 3660748371422230261
+    second: touhou_nonb_133
+  - first:
+      213: 8120199158357369714
+    second: touhou_nonb_134
+  - first:
+      213: 4996824474266008672
+    second: touhou_nonb_135
+  - first:
+      213: 83419082935914737
+    second: touhou_nonb_136
+  - first:
+      213: 4338009297002267707
+    second: touhou_nonb_137
+  - first:
+      213: 6326212582261300601
+    second: touhou_nonb_138
+  - first:
+      213: 5079859723823871380
+    second: touhou_nonb_139
+  - first:
+      213: -8562563302032796636
+    second: touhou_nonb_140
+  - first:
+      213: -8550472806976444224
+    second: touhou_nonb_141
+  - first:
+      213: 8251520885608415340
+    second: touhou_nonb_142
+  - first:
+      213: 3683476020318409945
+    second: touhou_nonb_143
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: touhou_nonb_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 361
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2834681cfe7ed7a49b89dd78cf82c540
+      internalID: -292971152529163605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 362
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bf3c456ae4ed04b981d7854c190ef6
+      internalID: 8479096387606204537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 362
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea19f749c0c5974e9d1ffef0b9ddfad
+      internalID: -6039669804658755072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 361
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c14c5b073473ea429cb5720bc9a7000
+      internalID: -8789435453262120521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 362
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d663369d9efc80d4b993b34853bd851f
+      internalID: 6818171633211505754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_5
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 362
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33abab080548f2148bc9fb6400fc3a5d
+      internalID: 66727216178953431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_6
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 361
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8274c8ad070b1e64796976d19f0a0e5e
+      internalID: 4972953838741763576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 362
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7fd9a3f509ed14aa1e4d298a8eddc1
+      internalID: 1580066801422864301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_8
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 362
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11b39b7f269019499eb9652bc384b04
+      internalID: 1469129496924850426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_9
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 361
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e5683cf4dfd082419ae3f29ed653b72
+      internalID: 3951058170196086453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_10
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 362
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5020ec6aa304ec44498df19fb9998338
+      internalID: 3144255355530243643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 362
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324527ba87257bb4aadd84b3e574bed2
+      internalID: -2161346434184302313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 329
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e1cc77f24c07144b170a74095f2d6b
+      internalID: -878824726499055459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 330
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dd2d11ec37ea1439b74258578be7f5
+      internalID: 4751837414044809324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 330
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96490714d9b05254484b67f224fa56ee
+      internalID: -3646570917927266315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 329
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c968fea5948e64c9b3073e17e84c05
+      internalID: 3696727797823025278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 330
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f07abed1eb14924eb3da40ea3365d39
+      internalID: -889794920607504895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 330
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93955d3c49f4c4e40a3858d54a5bbcf7
+      internalID: 6294364885591562573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 329
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4d50e42aa3de849b701ed83d3ffa11
+      internalID: 7484794650374010924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 330
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d075c78fdfcde24eb53f20c472396dc
+      internalID: -2555378659293966608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_20
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 330
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56babcbe67dfb549977bbd55c536b05
+      internalID: -7290656772068932978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_21
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 329
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d5cfc6fb025de4496a02c4864ab0de
+      internalID: 8434929022599385307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 330
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60758408f14f55e4dac9f6155871083d
+      internalID: -8979765844567758490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 330
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e644aa4a62423b0418dd708366edb757
+      internalID: 525887106768178275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 297
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c764002f9bfe205469390f0824999abd
+      internalID: 4059108508647690548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 298
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fff45a35e21ed4e82c1ca817672108
+      internalID: -3267680125539027671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 298
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a66e48c29c47434dbdcf1fa4c13a013
+      internalID: 6633364510960802053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_27
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 297
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df28f54343ff1a48bfdff039e7926b5
+      internalID: -1471395905396325459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_28
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 298
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59a89d2efb0e4049a10fd6e55b245f9
+      internalID: 211616108118775485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 298
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02de72f4e472074c810d2f86c294be7
+      internalID: 2396917718336502205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_30
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 297
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8812858e3425c3c43b76e612fd73c7c5
+      internalID: 2348504378001707239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 298
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a646d7bc9805b540a094d82b93ee7a1
+      internalID: -4189998760693318963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 298
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48db61543bdccc4bbb2f1aec8cb8841
+      internalID: 7473608552862803513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 297
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82c1b69ba6911a43b4878ad67f0cff3
+      internalID: -5497874264150088206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_34
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 298
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd08a518004a3a4fa98ad256cf4f6f8
+      internalID: -3406149620520982485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_35
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 298
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d03c924d63b3b34998644cc88402924
+      internalID: 4412119452187077664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 265
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c06f0648b40eb42939e129fd7f307b
+      internalID: -8883638476726735882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 266
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0e285b616b2a54884b3c8264f36956
+      internalID: -414921686970944091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_38
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 266
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f57b16205962f640bf6447e861d379f
+      internalID: -6908689708650499399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 265
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5addf63113b06274fbe8f16e84c134c9
+      internalID: 8857734318825944122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_40
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 266
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7371338f6c2880e40949fb6e862d0257
+      internalID: 256469904429004224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_41
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 266
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b2f2c28da12ed43ab8f2b639cc4acb
+      internalID: 226336545939877815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_42
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 265
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a334806da644d344a1da07772db312a
+      internalID: 5945440727443462429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_43
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 266
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac44a27b53650c94a87fa13733cb753c
+      internalID: -8062052095611786126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_44
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 266
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67aa29410b57e124b94fde2a3b7af397
+      internalID: -7114763766874975897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_45
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 265
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2a8e1a9b6420d45956fa36d5781461
+      internalID: 3713733346149077803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_46
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 266
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a749a6f1fce70f469815486b9f57748
+      internalID: 2974233898473865135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_47
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 266
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36749484878eed4b907d910ec73ceb0
+      internalID: 3000612119499079805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 236
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0fa1463a964fc4fb3d53fc53e4c01b
+      internalID: 8172061941261364895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_49
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 237
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aa18ef9554b42478808b71c907b611
+      internalID: 8795352238151565146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_50
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 237
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d21307f1aedbd4790ac05021f36114
+      internalID: 8932972375795519777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_51
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 236
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be11dae9a926834a907204d98ec59bc
+      internalID: 6527844947189480603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_52
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 237
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ed2b6d9fb61b5419d5ed96812bf38a
+      internalID: -4710699169499548333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_53
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 237
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279433fdebc4c6e47b6259a0deb21ab2
+      internalID: 8180253509092474490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_54
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 236
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a75e0621d6f960448580fd6db37dd92
+      internalID: 5434561444457288837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_55
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 237
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daab40127bb1a9d4da211d765b34c685
+      internalID: 1439689598322527760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_56
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 237
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9943877a7d980a4a9daa9bfbbed6fc0
+      internalID: 3294763588668733629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_57
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 236
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38226aa8def2a2349aee999a53300d6a
+      internalID: 7641993557099613025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_58
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 237
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f165859030964e74fbe29ba46374db18
+      internalID: 5662768824326415726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_59
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 237
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19005f86bc9556e4ea0ef510b183771b
+      internalID: -8334943469200620197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 205
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbd84e55a5c58742bf9afe90af1408c
+      internalID: -4652685509068637140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 206
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc8a02223ee7e3469d0613b8e50c8f8
+      internalID: 5047825351335345022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_62
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 206
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa95366855cb724ca91122df2cf0bbc
+      internalID: -9100811156478012712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_63
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 205
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20558bf918175a4bae9627a6aad16a0
+      internalID: 453047603520679374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_64
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 206
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d16a74d7f82a4749845a53dcdd3c6aa
+      internalID: 9093154278219282325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_65
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 206
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928d4fa3f03d06544a06ab9c56564f34
+      internalID: -8793253260358814191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_66
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 205
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b056265965952524b8cf6727487740c5
+      internalID: -982699523110936952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_67
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 206
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b14639a0a5890943ac7253fc371253f
+      internalID: -7661248354772908287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_68
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 206
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f9a72bb7a141a4bbb33d39ebbed827
+      internalID: 4620125053879263526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_69
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 205
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8330d434417bf6641a5879ba30160877
+      internalID: 6749529549241360676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_70
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 206
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e414f3c82e0205458e5a2eb8a750bf8
+      internalID: -6108178681718617872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_71
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 206
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e901cc5d4e30f429892976fe0ebe19
+      internalID: -528835386657374812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 173
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1c56d758822f14da1aaf491aff19b6
+      internalID: -2011405869079508134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_73
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727a4d20755cf7341add4ab6c0361aa6
+      internalID: 2680417763228892515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_74
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbf9e21fbdc35448a3bd9fe1a7e8045
+      internalID: -3962720084498080181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_75
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 173
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391f7e7610b906d40bba9332c9bdade1
+      internalID: 1736872380474418155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_76
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512ceb062153d94e9e09eaabe59c9db
+      internalID: 2723580494498436527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_77
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f77192190202e4a9c6e4375c815f7c
+      internalID: 2682433952795098873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_78
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 173
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f1110eaca9e7b4a994ba7bf91c36b5
+      internalID: -2836615834400545998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_79
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad3e6bc3d74501468b3612d8931f032
+      internalID: 4727607331249962076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_80
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d7f8acf44dc5c459ce0789477fd9e0
+      internalID: 7859526638485116407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_81
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 173
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f8dec4524913e4696460fa2926f597
+      internalID: -253960989927551729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_82
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aebc9cd2ce4fe47af411cf58e29fff
+      internalID: 1100128606288576512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_83
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b721355bc654c4a866678f3439e512
+      internalID: 835855596090416298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_84
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 143
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd80e883fb39084fb63ec64665832d9
+      internalID: -1392810822784047033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_85
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 144
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1046996507ffab84687c3c6269f79a37
+      internalID: 3948014438242632071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_86
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 144
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b556bff800374e499968d7ed3e046e0
+      internalID: 1347087961182878960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_87
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 143
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96523716f11a7b40ae0c602ee86143c
+      internalID: 3783698689906531066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_88
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 144
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34bc94df3941324588894dcb121fa4b
+      internalID: 4475416522402218376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_89
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 144
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308c5d9bdfad7de4b96465e9ae766b00
+      internalID: 6827076242470228714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_90
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 143
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa09f95fcb09e0429aae5ded2373a73
+      internalID: 4316458719656073037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_91
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 144
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4551fa2504c3cab4783f5184200b0480
+      internalID: 242344511470442967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_92
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 144
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99de0ad8b65fff244b9b8ba8a80bcbb2
+      internalID: -2203144362270906182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_93
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 143
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e685ec03ac47484e8bfab57238f4331
+      internalID: 4862025056638166328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_94
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 144
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cf30a929e4a1849908b56fb2a0811f
+      internalID: -9130133728253456043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_95
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 144
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc18c6be352e1ae47867626135a942a5
+      internalID: 3228554572900008483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_96
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 112
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5240b63742668c8459a99f5b3ad580e0
+      internalID: -5481828839054564307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_97
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 112
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a44ace026c4d34fade025579809c77
+      internalID: 127527616052172272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_98
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 112
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e888f1871dcc3914ebfdce9bb57b3dc1
+      internalID: 3984636053136601468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_99
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 112
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587e79a8a17a4634295eda0af13e8af3
+      internalID: 2615885130717635373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_100
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 112
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bc9cf718385054a8c23177a821f464
+      internalID: 7448352706851273615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_101
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 112
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe57ba75e7f998b41923397da296c23c
+      internalID: -49972355316682988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_102
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 112
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a9ccf2f4f2ad049b9bc82e1d350338
+      internalID: 6764154275054318218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_103
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 112
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd485bd1d001e04999b8c7b7b6cefa2
+      internalID: -5377300016574417452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_104
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 112
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e2ae845b4245d4b93b41f54a96b357
+      internalID: -3960754557935896992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_105
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 112
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c99f15b7480e340a94aed81be76fd3
+      internalID: 3018492370164336685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_106
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 112
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355a3ab3081522b42b64b9692dfc6446
+      internalID: 7935103284716405413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_107
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 112
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3805446b590434cbb47e02ee11b4a8
+      internalID: 8043284607473225834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_108
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e611d6b811d5b164f9441d28585e7c3a
+      internalID: 3899190170085308774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_109
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688491d67dc92543b25c6448467edb1
+      internalID: 1409955575422563307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_110
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89d15d48e7e97b48bce5c9baaa925ea
+      internalID: 6738379439353901684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_111
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eb7c52b2cdda54f9a02bcc1178ad77
+      internalID: 5772019942795553734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_112
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3049c9fe11cc1f344b76c811d255ac80
+      internalID: 5984392056947537257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_113
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661aac19c5756ad4e9cdc3ec624bb62e
+      internalID: -7236379946054386680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_114
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1942ae69e73ac7546a21ecce19f164d0
+      internalID: 3977507805336611094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_115
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad2865c4b03cb04983f558cdfeda1cb
+      internalID: 499562987251937241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_116
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e13576fcb87134aad17691379d94e7
+      internalID: 7532636817799119370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_117
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d0f3329b979e44880d02f206ca255f
+      internalID: -7032278708433763550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_118
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dad3d7b496d894c93eaba793be38aa
+      internalID: 1717572492204054778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_119
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 79
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaddfbcae6b756e4781dc9a68f54e9ee
+      internalID: -7842118725238833710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_120
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1326376de18f542429e2090730ebf794
+      internalID: 2657988330405095633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_121
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc72f0c27cd59b4aabf02b60f31de6f
+      internalID: 2709248825973212957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_122
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c9508390e31f2489276ceebee10882
+      internalID: -8141862945391630675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_123
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7c8da6e8025b4b824f870f5113c63
+      internalID: 4023203177075779774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_124
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6b2a1b59884604ba2154b6c8fcafda
+      internalID: 7049456622429776018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_125
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db55658039d41c459fb68cbc6cf9b54
+      internalID: -2134942243894559896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_126
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f69a5bc4d7345041bb8234ce3a0c036
+      internalID: -7595545889616778201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_127
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ddd85414f85b7448adc71000083a1c
+      internalID: 7738671986284390030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_128
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f66d25524b3c7448d1762aab066a2e
+      internalID: -1016473687598779489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_129
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b49d5368217f94892659a291b6f8f5
+      internalID: -5753089778770097865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_130
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f8acd2d38f9d14bb4b19b4b6d10df0
+      internalID: 8357519748868991884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_131
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 47
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0e3ac02a0cc544cb88763af95a3ec8
+      internalID: 4474250124116563420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_132
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 14
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a81ce2771ce68a45afddaae2e338e52
+      internalID: 8176263106159927177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_133
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 14
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0469148d3bf7dc844a12190b9342acb2
+      internalID: 3660748371422230261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 14
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d531b404ab6b1e4d8c9730b36417c46
+      internalID: 8120199158357369714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_135
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 14
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8bb0524a68beb4081f263550798842
+      internalID: 4996824474266008672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_136
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 14
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a15f433a89b1f489cf5781395e6b9a
+      internalID: 83419082935914737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_137
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 14
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6098f6fb7b62e40a3770c8bd14048c
+      internalID: 4338009297002267707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_138
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 14
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e102a01c77e387a4184a6d6aeaae108b
+      internalID: 6326212582261300601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_139
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 14
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0146d13bcbcd80945b467736a9c53d3a
+      internalID: 5079859723823871380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_140
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 14
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bfee8774d3163408766190fb79325c
+      internalID: -8562563302032796636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_141
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 14
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0be9977641c014f8d1880112eea8e8
+      internalID: -8550472806976444224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_142
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 14
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eb25565af3f0b4990400a967280455
+      internalID: 8251520885608415340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: touhou_nonb_143
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 14
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9e456ee74c9344796e53c16c18c5c5
+      internalID: 3683476020318409945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0504db644ec4d0f44886953006f69ee6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

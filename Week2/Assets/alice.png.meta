@@ -1,0 +1,1840 @@
+fileFormatVersion: 2
+guid: 497847e6d944249449e714fb319c24e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5510741715754306470
+    second: alice_0
+  - first:
+      213: -8040160357768417378
+    second: alice_1
+  - first:
+      213: -7897513258110326954
+    second: alice_2
+  - first:
+      213: -5255552868598160543
+    second: alice_3
+  - first:
+      213: 3380078023402667651
+    second: alice_4
+  - first:
+      213: 5292034019923480298
+    second: alice_5
+  - first:
+      213: -5568988836867384123
+    second: alice_6
+  - first:
+      213: 6599060927857993260
+    second: alice_7
+  - first:
+      213: -7152548897490531431
+    second: alice_8
+  - first:
+      213: -9151525476148255034
+    second: alice_9
+  - first:
+      213: 1401031996637275777
+    second: alice_10
+  - first:
+      213: 3330832198997828615
+    second: alice_11
+  - first:
+      213: 1634306036755942720
+    second: alice_12
+  - first:
+      213: -2323022157628053325
+    second: alice_13
+  - first:
+      213: -8563696224258580406
+    second: alice_14
+  - first:
+      213: 6508376263628425747
+    second: alice_15
+  - first:
+      213: 3303259341215781356
+    second: alice_16
+  - first:
+      213: -5211544426650556489
+    second: alice_17
+  - first:
+      213: 2314420841152549992
+    second: alice_18
+  - first:
+      213: 583159250142290512
+    second: alice_19
+  - first:
+      213: -156642895127279504
+    second: alice_20
+  - first:
+      213: 164741703865704522
+    second: alice_21
+  - first:
+      213: 4419389871901177431
+    second: alice_22
+  - first:
+      213: -305409645502105643
+    second: alice_23
+  - first:
+      213: -9030526288499341380
+    second: alice_24
+  - first:
+      213: 1162886692713199148
+    second: alice_25
+  - first:
+      213: 1462109912556344308
+    second: alice_26
+  - first:
+      213: -8940495269686405077
+    second: alice_27
+  - first:
+      213: -4967683144262659503
+    second: alice_28
+  - first:
+      213: -780848068207425036
+    second: alice_29
+  - first:
+      213: -323247134717693261
+    second: alice_30
+  - first:
+      213: 5335437145650315630
+    second: alice_31
+  - first:
+      213: -5931099337473142944
+    second: alice_32
+  - first:
+      213: 5911446797678116531
+    second: alice_33
+  - first:
+      213: -7045832091306234596
+    second: alice_34
+  - first:
+      213: -6632121653314838986
+    second: alice_35
+  - first:
+      213: 398442063814591995
+    second: alice_36
+  - first:
+      213: -5567248422692064672
+    second: alice_37
+  - first:
+      213: -1107029600024256258
+    second: alice_38
+  - first:
+      213: 4535288774757697362
+    second: alice_39
+  - first:
+      213: -5677401803336943078
+    second: alice_40
+  - first:
+      213: 5075818300350626791
+    second: alice_41
+  - first:
+      213: -5730782572692965068
+    second: alice_42
+  - first:
+      213: 5874922667628676843
+    second: alice_43
+  - first:
+      213: -7407354888920330088
+    second: alice_44
+  - first:
+      213: 5152948517174985104
+    second: alice_45
+  - first:
+      213: -6739673962613876842
+    second: alice_46
+  - first:
+      213: 7930705000395089002
+    second: alice_47
+  - first:
+      213: 1092103662947608627
+    second: alice_48
+  - first:
+      213: -7504037375832096251
+    second: alice_49
+  - first:
+      213: 575663670950690929
+    second: alice_50
+  - first:
+      213: 7329150822253588109
+    second: alice_51
+  - first:
+      213: -3181668122839603213
+    second: alice_52
+  - first:
+      213: 6546188768842274898
+    second: alice_53
+  - first:
+      213: -5262625873026586635
+    second: alice_54
+  - first:
+      213: -5148314307360202063
+    second: alice_55
+  - first:
+      213: 4170462713250264394
+    second: alice_56
+  - first:
+      213: -7709193030506359351
+    second: alice_57
+  - first:
+      213: 7017741007478482081
+    second: alice_58
+  - first:
+      213: -7009620787152428767
+    second: alice_59
+  - first:
+      213: 8460050680027424796
+    second: alice_60
+  - first:
+      213: 1589208234844962355
+    second: alice_61
+  - first:
+      213: 5239859100964149867
+    second: alice_62
+  - first:
+      213: 2097917287739837380
+    second: alice_63
+  - first:
+      213: 2334349812483225241
+    second: alice_64
+  - first:
+      213: 1751756980216187054
+    second: alice_65
+  - first:
+      213: 5959954489768625355
+    second: alice_66
+  - first:
+      213: -410281260224763794
+    second: alice_67
+  - first:
+      213: -5120602202697948317
+    second: alice_68
+  - first:
+      213: 5811177921736077738
+    second: alice_69
+  - first:
+      213: -4035009587898293694
+    second: alice_70
+  - first:
+      213: 4508765835072820191
+    second: alice_71
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alice_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 450
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c1a951b6ee94f47b33b53b321bc392
+      internalID: 5510741715754306470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 453
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dc898bca9eb894eb5a0d139d691b8b
+      internalID: -8040160357768417378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 450
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d10d961b56d43c4185b92a674a11f05
+      internalID: -7897513258110326954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 450
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cd0682423d2504caaa14961c5070c9
+      internalID: -5255552868598160543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 450
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423778bc44b649a43bcc8b91c4968d57
+      internalID: 3380078023402667651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 450
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7952d5dd3086d24aa687f7e4111c062
+      internalID: 5292034019923480298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 450
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af34b305cc711bc4ba87900a504b084c
+      internalID: -5568988836867384123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_7
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 450
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951b6fad36b221043aedbe9c74e475ca
+      internalID: 6599060927857993260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 387
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da97bb809ba6bbe40b1cb23a387ab9bc
+      internalID: -7152548897490531431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 387
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf42d6806680bd46a5e971755db0333
+      internalID: -9151525476148255034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 387
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397fa6559a051344d8d7a0e0d734264d
+      internalID: 1401031996637275777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_11
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 387
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3c33206ba2ed648b86ba8ad47b640a
+      internalID: 3330832198997828615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_12
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 387
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db737c3b13a8f0439be36ad26a1e4a9
+      internalID: 1634306036755942720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 387
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a79f4a4f900e434aaf1c06d20c873fd
+      internalID: -2323022157628053325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 387
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583a61024d4f0b041b31bfc6bbb96de3
+      internalID: -8563696224258580406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 387
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a410b804ca5f144966338e40083269
+      internalID: 6508376263628425747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_16
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 387
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a1a3eac09ad56468cbd874c3482629
+      internalID: 3303259341215781356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_17
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 387
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ee639b9f0738040b6f0925dcf2a2bf
+      internalID: -5211544426650556489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 322
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957b7f6a92ca6174388534d0723b9dac
+      internalID: 2314420841152549992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 322
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b4d8a8eb45e1e49984f856e48ad2fb
+      internalID: 583159250142290512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_20
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 322
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8485a74f474ad724e9ba76213d6066ce
+      internalID: -156642895127279504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 322
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209a0f2e0091bf34c8ebd8677fe5efd7
+      internalID: 164741703865704522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_22
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 322
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c922acc19fbed8b48bb488abdeea36fd
+      internalID: 4419389871901177431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_23
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 322
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288399aa6812fe249adc56ed75bd59c1
+      internalID: -305409645502105643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_24
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 322
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4724dd95e60236946b4c159e3fd58c83
+      internalID: -9030526288499341380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_25
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 322
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7623439749d0c32439d1d77be5564751
+      internalID: 1162886692713199148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 259
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258a9cf14a80b5e4d9db24a81a5bb3b0
+      internalID: 1462109912556344308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 259
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bccb71740786f4c84daa7222e55df6
+      internalID: -8940495269686405077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 259
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8d76745895f9c4b801bc226e6badaf
+      internalID: -4967683144262659503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_29
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 259
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34e27a56fe018149bab200ef2d9e53a
+      internalID: -780848068207425036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_30
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 259
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc89e43f7e34d940b5672e293ed6b1c
+      internalID: -323247134717693261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_31
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 259
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0466b3ad9d3bdcf4fa4cf8fd2bdfc903
+      internalID: 5335437145650315630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_32
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 259
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ad500d0a4e2ad45999cc4bc997c5a7
+      internalID: -5931099337473142944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_33
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 259
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8080d202974c1404392744c1fdac69ec
+      internalID: 5911446797678116531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_34
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 259
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b9aa5abbb2f754490ee202417af18b
+      internalID: -7045832091306234596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_35
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 259
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28eb6a61206f7b9409e1ffde66bf3021
+      internalID: -6632121653314838986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 190
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a43c1f3a8a6904e81632eb7759f978
+      internalID: 398442063814591995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 190
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41047a3708a9424ebe8b80c56b7418b
+      internalID: -5567248422692064672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 199
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcbc0f87d47b1349bd0a6d5b8009ab7
+      internalID: -1107029600024256258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 199
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98accfc20acf28b4a81590aa25ca4eb5
+      internalID: 4535288774757697362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 190
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d2d2281b12a5f4fa5306b95d3250df
+      internalID: -5677401803336943078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_41
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 190
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b42e77ce10216c478fc7ae518288484
+      internalID: 5075818300350626791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_42
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 190
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9bba5d3bec99c4ab0c1aa8c7c9c446
+      internalID: -5730782572692965068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_43
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 190
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64173960de523648b4a49d36f7e4989
+      internalID: 5874922667628676843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_44
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 190
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e6b95fe28d8c6469b000a3945b3ce7
+      internalID: -7407354888920330088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 127
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64058fa4b96deb44bb4c1896ff1b9924
+      internalID: 5152948517174985104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 127
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9290132d7ac4f39429f1ed063665bcbf
+      internalID: -6739673962613876842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 134
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212c8908d54473947b318ff7500383ee
+      internalID: 7930705000395089002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_48
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 134
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfcb5ea2e7211346a9a318d278aebb4
+      internalID: 1092103662947608627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_49
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 127
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a6038853314f14988fdce84d3d93c5
+      internalID: -7504037375832096251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_50
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 127
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5958688f06889941bf6fbbba49dd33e
+      internalID: 575663670950690929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_51
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 127
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942d408fe5f27b8478fdbdbd3bd390d9
+      internalID: 7329150822253588109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_52
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 127
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41baf1cfc86f6694c94316999beff6ea
+      internalID: -3181668122839603213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_53
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 127
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77035d93628e1447a90f6975fa63ba9
+      internalID: 6546188768842274898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_54
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 71
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c81162e5187d314a8ef9c4b0ddc2dac
+      internalID: -5262625873026586635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 71
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc21c49d681066a44907d4bb097016be
+      internalID: -5148314307360202063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_56
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 80
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1fdf33648cc2846a9be101d1721150
+      internalID: 4170462713250264394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_57
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 80
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af4f0633605b2148b422fe99a2fd671
+      internalID: -7709193030506359351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_58
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 71
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a132ff483ff584491e4d87a5bb1a92
+      internalID: 7017741007478482081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_59
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 71
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a8c8d978de4164e9071c831d905221
+      internalID: -7009620787152428767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_60
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 83
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e15303eeac1b74887ca744a7b09650
+      internalID: 8460050680027424796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_61
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 83
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecee5b0412827a4982f03a91a7760b2
+      internalID: 1589208234844962355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_62
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 71
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ca5f464c5e1494184398e3df6d0e73
+      internalID: 5239859100964149867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_63
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 71
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7128bcaa0c6de7f44a2f82efc68e5b17
+      internalID: 2097917287739837380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 8
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859422d56d0c485409c0c537d8c515f5
+      internalID: 2334349812483225241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_65
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 8
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be48a68f19821ee478eafd2e9feb5aac
+      internalID: 1751756980216187054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_66
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 8
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a70b2ba3e50fd4592deba20d12eef7
+      internalID: 5959954489768625355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_67
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 8
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6b468e903b22146bea179c718b73d9
+      internalID: -410281260224763794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_68
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 8
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89199fa40cef304986b72a868fb104d
+      internalID: -5120602202697948317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_69
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 8
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832658fde19802748a5f71f80b79cca7
+      internalID: 5811177921736077738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 8
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc870122446994e49824cfaf048e50ad
+      internalID: -4035009587898293694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alice_71
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 8
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b00cb59e0a2a540abd61aede11cc1b
+      internalID: 4508765835072820191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 50006042ccce84b4ba5445bdb9f3eba8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
