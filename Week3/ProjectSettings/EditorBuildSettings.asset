@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/touhou.unity
+    guid: b9045f38b3d1b43429d212525fb0796b
   m_configObjects: {}

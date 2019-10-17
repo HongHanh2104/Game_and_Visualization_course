@@ -5,8 +5,10 @@ using UnityEngine;
 public class Move : MonoBehaviour
 {
     //Vector2 newPos;
-    public float speed = 1.0f;
+    public float speed = 10.0f;
     public float jump = 200f;
+    private int max_jump = 2;
+    public int cur_jump = 0;
     // Start is called before the first frame update
     void Start()
     {
@@ -31,9 +33,21 @@ public class Move : MonoBehaviour
             GetComponent<SpriteRenderer>().flipX = false;
             GetComponent<Animator>().SetTrigger("Run");
         }
-        if (Input.GetKeyDown(KeyCode.Space))
+        
+        if (Input.GetKeyDown(KeyCode.Space) && cur_jump < max_jump)
         {
-            GetComponent<Rigidbody2D>().AddForce(new Vector2(0, jump));
+            cur_jump++;
+            GetComponent<Rigidbody2D>().AddForce(new Vector2(0, jump));            
         }
+        
+    }
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "ground_long" || collision.gameObject.tag == "ground_short")
+        {
+            cur_jump = 0;
+        }
+        
     }
 }
